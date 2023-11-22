@@ -1,3 +1,5 @@
 <template>
-    <h1>Hello World</h1>
+    <Hero />
+    <About />
+    <StartReading />
 </template>
