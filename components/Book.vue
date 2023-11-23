@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="bg-[#d8e6ff] max-w-[400px]">
+        <!-- <div class="bg-[#d8e6ff] max-w-[400px]">
             <img :src="book.img" alt="book" class="py-8">
         </div>
         <div class="max-w-[400px] mx-auto mt-5 mb-6">
@@ -14,7 +14,8 @@
                     Book Read
                 </button>
             </nuxt-link>
-        </div>
+        </div> -->
+        {{ book }}
     </div>
 </template>
 

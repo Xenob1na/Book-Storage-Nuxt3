@@ -1,0 +1,360 @@
+[
+    {
+        "id": 84,
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "authors": [
+            {
+                "name": "Shelley, Mary Wollstonecraft",
+                "birth_year": 1797,
+                "death_year": 1851
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Frankenstein's monster (Fictitious character) -- Fiction",
+            "Frankenstein, Victor (Fictitious character) -- Fiction",
+            "Gothic fiction",
+            "Horror tales",
+            "Monsters -- Fiction",
+            "Science fiction",
+            "Scientists -- Fiction"
+        ],
+        "bookshelves": [
+            "Gothic Fiction",
+            "Movie Books",
+            "Precursors of Science Fiction",
+            "Science Fiction by Women"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/84.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/84.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/84.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/84.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/84/84-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/84.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/84/84-0.zip"
+        }
+    },
+    {
+        "id": 1513,
+        "title": "Romeo and Juliet",
+        "authors": [
+            {
+                "name": "Shakespeare, William",
+                "birth_year": 1564,
+                "death_year": 1616
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Conflict of generations -- Drama",
+            "Juliet (Fictitious character) -- Drama",
+            "Romeo (Fictitious character) -- Drama",
+            "Tragedies",
+            "Vendetta -- Drama",
+            "Verona (Italy) -- Drama",
+            "Youth -- Drama"
+        ],
+        "bookshelves": [],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/1513.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1513.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1513.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/1513.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1513/1513-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1513.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/1513/1513-0.zip"
+        },
+        "download_count": 60644
+    },
+    {
+        "id": 1342,
+        "title": "Pride and Prejudice",
+        "authors": [
+            {
+                "name": "Austen, Jane",
+                "birth_year": 1775,
+                "death_year": 1817
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Courtship -- Fiction",
+            "Domestic fiction",
+            "England -- Fiction",
+            "Love stories",
+            "Sisters -- Fiction",
+            "Social classes -- Fiction",
+            "Young women -- Fiction"
+        ],
+        "bookshelves": [
+            "Best Books Ever Listings",
+            "Harvard Classics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/1342.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/1342.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1342.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/1342.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1342/1342-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/1342.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/1342/1342-0.zip"
+        },
+        "download_count": 53375
+    },
+    {
+        "id": 25344,
+        "title": "The Scarlet Letter",
+        "authors": [
+            {
+                "name": "Hawthorne, Nathaniel",
+                "birth_year": 1804,
+                "death_year": 1864
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Adultery -- Fiction",
+            "Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction",
+            "Clergy -- Fiction",
+            "Historical fiction",
+            "Illegitimate children -- Fiction",
+            "Married women -- Fiction",
+            "Psychological fiction",
+            "Puritans -- Fiction",
+            "Revenge -- Fiction",
+            "Triangles (Interpersonal relations) -- Fiction",
+            "Women immigrants -- Fiction"
+        ],
+        "bookshelves": [
+            "Banned Books from Anne Haight's list"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/25344.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/25344.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25344.kf8.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/25344.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/25344.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/25344/pg25344.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/25344/25344-0.zip"
+        },
+        "download_count": 38073
+    },
+    {
+        "id": 33283,
+        "title": "Calculus Made Easy: Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differential Calculus and the Integral Calculus",
+        "authors": [
+            {
+                "name": "Thompson, Silvanus P. (Silvanus Phillips)",
+                "birth_year": 1851,
+                "death_year": 1916
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Calculus"
+        ],
+        "bookshelves": [
+            "Mathematics"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "application/pdf": "https://www.gutenberg.org/files/33283/33283-pdf.pdf",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/33283.rdf",
+            "application/prs.tex": "https://www.gutenberg.org/files/33283/33283-t/33283-t.tex",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/33283/pg33283.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/33283/33283-pdf.zip"
+        },
+        "download_count": 34034
+    },
+    {
+        "id": 345,
+        "title": "Dracula",
+        "authors": [
+            {
+                "name": "Stoker, Bram",
+                "birth_year": 1847,
+                "death_year": 1912
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Dracula, Count (Fictitious character) -- Fiction",
+            "Epistolary fiction",
+            "Gothic fiction",
+            "Horror tales",
+            "Transylvania (Romania) -- Fiction",
+            "Vampires -- Fiction",
+            "Whitby (England) -- Fiction"
+        ],
+        "bookshelves": [
+            "Gothic Fiction",
+            "Horror",
+            "Movie Books",
+            "Mystery Fiction"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/345.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/345.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/345.kf8.images",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/345.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/345/345-0.zip"
+        },
+        "download_count": 30637
+    },
+    {
+        "id": 11,
+        "title": "Alice's Adventures in Wonderland",
+        "authors": [
+            {
+                "name": "Carroll, Lewis",
+                "birth_year": 1832,
+                "death_year": 1898
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+            "Children's stories",
+            "Fantasy fiction",
+            "Imaginary places -- Juvenile fiction"
+        ],
+        "bookshelves": [
+            "Children's Literature"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/11.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/11.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11/11-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/11.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/11/11-0.zip"
+        },
+        "download_count": 30353
+    },
+    {
+        "id": 5200,
+        "title": "Metamorphosis",
+        "authors": [
+            {
+                "name": "Kafka, Franz",
+                "birth_year": 1883,
+                "death_year": 1924
+            }
+        ],
+        "translators": [
+            {
+                "name": "Wyllie, David (Translator)",
+                "birth_year": null,
+                "death_year": null
+            }
+        ],
+        "subjects": [
+            "Metamorphosis -- Fiction",
+            "Psychological fiction"
+        ],
+        "bookshelves": [
+            "Horror"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/5200.html.images",
+            "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/5200/5200-h/5200-h.htm",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/5200.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5200.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/5200.txt.utf-8",
+            "text/plain; charset=utf-8": "https://www.gutenberg.org/files/5200/5200-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/5200.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/5200/pg5200.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/cache/epub/5200/pg5200-h.zip"
+        },
+        "download_count": 25218
+    },
+    {
+        "id": 174,
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+            {
+                "name": "Wilde, Oscar",
+                "birth_year": 1854,
+                "death_year": 1900
+            }
+        ],
+        "translators": [],
+        "subjects": [
+            "Appearance (Philosophy) -- Fiction",
+            "Conduct of life -- Fiction",
+            "Didactic fiction",
+            "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+            "London (England) -- History -- 1800-1950 -- Fiction",
+            "Paranormal fiction",
+            "Portraits -- Fiction",
+            "Supernatural -- Fiction"
+        ],
+        "bookshelves": [
+            "Gothic Fiction",
+            "Movie Books"
+        ],
+        "languages": [
+            "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+            "text/html": "https://www.gutenberg.org/ebooks/174.html.images",
+            "application/epub+zip": "https://www.gutenberg.org/ebooks/174.epub3.images",
+            "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/174.kf8.images",
+            "text/plain": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+            "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/174/174-0.txt",
+            "application/rdf+xml": "https://www.gutenberg.org/ebooks/174.rdf",
+            "image/jpeg": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+            "application/octet-stream": "https://www.gutenberg.org/files/174/174-0.zip"
+        }
+    }
+    
+]
