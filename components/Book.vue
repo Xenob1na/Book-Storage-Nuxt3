@@ -1,11 +1,10 @@
 <template>
     <div>
-        <!-- <div class="bg-[#d8e6ff] max-w-[400px]">
-            <img :src="book.img" alt="book" class="py-8">
+        <div class="bg-[#d8e6ff] max-w-[300px]">
+            <img :src="book.images" alt="book" class="py-8 px-8 w-[300px]">
         </div>
-        <div class="max-w-[400px] mx-auto mt-5 mb-6">
-            <h4 class="text-[#1B3764] text-[28px] font-bold leading-[120%] font-cardo">{{ book.title }}</h4>
-            <p class="text-[18px] text-[#969AA0] font-normal leading-[180%]">{{ book.description }}</p>
+        <div class="max-w-[300px] mt-5 mb-6">
+            <h4 class="text-[#1B3764] text-[28px] font-bold leading-[120%] font-cardo line-clamp-1">{{ book.title }}</h4>
         </div>
         <div>
             <nuxt-link :to="`/Book/${book.id}`">
@@ -14,8 +13,7 @@
                     Book Read
                 </button>
             </nuxt-link>
-        </div> -->
-        {{ book }}
+        </div>
     </div>
 </template>
 

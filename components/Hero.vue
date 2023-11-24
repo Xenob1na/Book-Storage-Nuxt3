@@ -14,14 +14,17 @@
                         many variations of books, but most of them are collected on this site read and get high</p>
                 </div>
                 <div class="mt-[50px]">
-                    <button
-                        class="bg-[#FFCA42] py-[20px] px-[53px] text-[#1B3764] text-[19px] font-medium leading-[125%] hover:bg-[#1B3764] hover:border-[#FFCA42] border border-[#FFCA42] hover:text-[#FFCA42] font-cardo">
-                        Book Search
-                    </button>
+                    <nuxt-link to="/Book">
+                        <button
+                            class="bg-[#FFCA42] py-[20px] px-[53px] text-[#1B3764] text-[19px] font-medium leading-[125%] hover:bg-[#1B3764] hover:border-[#FFCA42] border border-[#FFCA42] hover:text-[#FFCA42] font-cardo">
+                            Book Search
+                        </button>
+                    </nuxt-link>
                 </div>
             </div>
             <div class="pb-[130px]">
                 <img src="/BookHero.png" alt="">
             </div>
         </div>
-</div></template>
+    </div>
+</template>
