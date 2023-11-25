@@ -7,4 +7,8 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
   ],
   css: ['~/assets/main.css'],
+  app: {
+    baseURL: '/Book-Storage-Nuxt3/',
+    buildAssetsDir: 'assets',
+  }
 })
