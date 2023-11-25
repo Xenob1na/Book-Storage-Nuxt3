@@ -107,5 +107,67 @@
         ],
         "images": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
         "text": "https://www.gutenberg.org/ebooks/174.html.images"
+    },
+    {
+        "id": 26184,
+        "title": "Simple Sabotage Field Manual",
+        "authors": "United States. Office of Strategic Services",
+        "images": "https://www.gutenberg.org/cache/epub/26184/pg26184.cover.medium.jpg",
+        "text": "https://www.gutenberg.org/files/26184/26184-pdf.pdf"
+    },
+    {
+        "id": 64317,
+        "title": "The Great Gatsby",
+        "authors": "Fitzgerald, F. Scott (Francis Scott)",
+        "images": "https://www.gutenberg.org/cache/epub/64317/pg64317.cover.medium.jpg",
+        "text": "https://www.gutenberg.org/ebooks/64317.html.images"
+    },
+    {
+        "id": 2542,
+        "title": "A Doll's House : a play",
+        "authors": "Ibsen, Henrik",
+        "images": "https://www.gutenberg.org/cache/epub/2542/pg2542.cover.medium.jpg"
+    },
+    {
+        "id": 1952,
+        "title": "The Yellow Wallpaper",
+        "authors": "Gilman, Charlotte Perkins",
+        "images": "https://www.gutenberg.org/cache/epub/1952/pg1952.cover.medium.jpg"
+    },
+    {
+        "id": 1080,
+        "title": "A Modest Proposal: For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick",
+        "authors": "Swift, Jonathan",
+        "images": "https://www.gutenberg.org/cache/epub/1080/pg1080.cover.medium.jpg"
+    },
+    {
+        "id": 844,
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "authors": "Wilde, Oscar",
+        "images": "https://www.gutenberg.org/cache/epub/844/pg844.cover.medium.jpg"
+    },
+    {
+        "id": 43,
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "authors": "Stevenson, Robert Louis",
+        "images": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg"
+    },
+    {
+        "id": 98,
+        "title": "A Tale of Two Cities",
+        "authors": "Dickens, Charles",
+        "images": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg"
+    },
+    {
+        "id": 41,
+        "title": "The Legend of Sleepy Hollow",
+        "authors": "Irving, Washington",
+        "images": "https://www.gutenberg.org/cache/epub/41/pg41.cover.medium.jpg"
+    },
+    {
+        "id": 1661,
+        "title": "The Adventures of Sherlock Holmes",
+        "authors": "Doyle, Arthur Conan",
+        "images": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg"
     }
 ]
